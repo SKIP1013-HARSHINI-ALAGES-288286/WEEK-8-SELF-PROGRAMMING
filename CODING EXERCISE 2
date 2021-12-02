@@ -1,0 +1,15 @@
+package selfProgramming;
+
+class exercise2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int i = 0;
+		
+		do {
+			System.out.print(i + " ");
+			i++;  // i = i + 1
+		} while (i <= 3);
+	}
+
+}
